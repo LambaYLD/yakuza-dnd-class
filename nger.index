@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
+	<info>
+		<name>nger</name>
+		<description>The content from nger</description>
+		<author url="https://google.com">nger</author>
+		<update version="0.0.7">
+			<file name="critical-role.index" url="https://raw.githubusercontent.com/LambaYLD/yakuza-dnd-class/main/nger.index" />
+		</update>
+	</info>
 	<files>
 		<file name="omk.xml" url="https://raw.githubusercontent.com/LambaYLD/yakuza-dnd-class/main/lmao.xml" />
 	</files>
