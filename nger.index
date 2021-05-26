@@ -6,6 +6,7 @@
 		<update version="0.2.2">
 			<file name="nger.index" url="https://raw.githubusercontent.com/LambaYLD/yakuza-dnd-class/main/nger.index" />
 		</update>
+	</info>
 	<files>
 		<file name="omk.xml" url="https://raw.githubusercontent.com/LambaYLD/yakuza-dnd-class/main/lmao.xml" />
 	</files>
